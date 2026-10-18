@@ -1,0 +1,26 @@
+{
+  "verifiedAtUtc": "2026-10-18T17:03:42.978873+00:00",
+  "method": "Bounded in-app-browser interactions via CUA; native controls, DOM observations and screenshots.",
+  "checks": [
+    "Root and repository subpath HTTP entry/media responses returned 200.",
+    "Library, source, search, notes, decisions, boards and pitch navigation rendered in the in-app browser.",
+    "A sourced note saved the selected 2-6 second interval and survived a browser reload.",
+    "Decision form labels worked; new decision saved and resolved with a rationale.",
+    "A board card moved from Research to Develop and lane counts reconciled.",
+    "A pitch revision created version3 with version2 as parent; preferred selection showed its stamp.",
+    "Export pitch HTML produced a readable downloaded self-contained file.",
+    "Using the recorded Qwen draft created a version labelled recorded AI.",
+    "Comparing the first two pitch versions rendered changed-field markers.",
+    "The recorded train query showed top score0.774 with visual0.774/audio0.695 at60:40; precise arithmetic for all seven queries is checked separately.",
+    "A local video import added a material, persisted in IndexedDB across reload and used a Blob preview URL.",
+    "Imported and bundled clips both started inside the2-6second selection; bundled playback paused at6.012seconds.",
+    "Library inspected at1280px and400px, Table and Daylight themes; no full-page horizontal overflow at400px.",
+    "Browser console had no error/warning entries in the observed session."
+  ],
+  "limits": [
+    "Not a full accessibility or physical-device audit.",
+    "JSON backup round-trip, source sanitization and malformed-input handling were checked by DOM-free tests; restore/import failure paths were not all exercised in the browser.",
+    "No GitHub deployment was performed; Pages workflow syntax/configuration and root/subpath serving were checked locally."
+  ],
+  "proof": "PREVIEW.png"
+}

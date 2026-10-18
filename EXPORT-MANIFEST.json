@@ -1,0 +1,175 @@
+{
+  "format": "klaps-static-export-v1",
+  "createdUtc": "2026-10-18T17:04:12.063729+00:00",
+  "entry": "index.html",
+  "buildRequired": false,
+  "serverRequired": false,
+  "files": [
+    {
+      "path": "index.html",
+      "bytes": 1445,
+      "sha256": "54e14c082b19e4bec5eb7e19ccca1860ad036b184e11ebd1e4efaa2df5ae5b05"
+    },
+    {
+      "path": "core.js",
+      "bytes": 34145,
+      "sha256": "74ed2c382f262862d80172c0ff5e154895e1609478f206244d973339f2971f1b"
+    },
+    {
+      "path": "views.js",
+      "bytes": 33749,
+      "sha256": "d50967111579c8bf80f7ac5a1f28dc8633fdd92df9a1774b8b6b240d75cc6f6e"
+    },
+    {
+      "path": "strings.js",
+      "bytes": 15652,
+      "sha256": "b533aa104e51182de9ff622503205d59caa00434392d5c40048cd84fef8d5d41"
+    },
+    {
+      "path": "data.js",
+      "bytes": 8532760,
+      "sha256": "be869cf438b63803df2639bf50fc8637ed42f72e3a7ec316f4b009428cbae4a9"
+    },
+    {
+      "path": "app.css",
+      "bytes": 52165,
+      "sha256": "8f1335e7c12bc38db864b80f6261c3ba95ff3269a56b5b03a0b3e79dbc4ea8e4"
+    },
+    {
+      "path": "README.md",
+      "bytes": 7604,
+      "sha256": "3e6d95f7fd4f696f486bc6d82ee67429ed528181e33ec979c214e72afc974336"
+    },
+    {
+      "path": "THIRD-PARTY-NOTICES.txt",
+      "bytes": 3062,
+      "sha256": "a7b35ad1be3bb4f008d2be7aea92dccd57291f558661df869ea5cb2c913ee498"
+    },
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": ".github/workflows/pages.yml",
+      "bytes": 729,
+      "sha256": "5b17accf7c8a38d763ff2cb0a50b520a0bb99e9abe1f65b7a05608d5eabad58c"
+    },
+    {
+      "path": "VALIDATION.json",
+      "bytes": 1260,
+      "sha256": "55e417b49ec15066dcc660d49d892252a1b5a1993cf60db3ea46f210fa1bec61"
+    },
+    {
+      "path": "BROWSER-VALIDATION.json",
+      "bytes": 1975,
+      "sha256": "847ab0052c6e9face3cbf1024998b880fb409af947b2c9e9fa16ea6db29ddbea"
+    },
+    {
+      "path": "assets/evidence/actual-ai-generation.public.json",
+      "bytes": 3021,
+      "sha256": "b2b614bb50e2581805ec129597f1a43e708e55595c9adab8765a32f7d44b40f8"
+    },
+    {
+      "path": "assets/evidence/ASSET-MANIFEST.json",
+      "bytes": 5394,
+      "sha256": "63d95ba674a0e92a0bc034f35e351515d0df83de0cc67f553e9ed23cd14c2259"
+    },
+    {
+      "path": "assets/evidence/recorded-index.public.json",
+      "bytes": 89916,
+      "sha256": "24f92fcc3c8fa3b5c541543b6148d3105d1baa7c8f0891a920c052852c83d10d"
+    },
+    {
+      "path": "assets/favicon.svg",
+      "bytes": 307,
+      "sha256": "3f272ff62c3204918e2df74a44d9342a42d879b3bc26eeba8ab8c374eee206ad"
+    },
+    {
+      "path": "assets/klaps/bundle.css",
+      "bytes": 44062,
+      "sha256": "9df78443d361f049210c38195637a9a6814442de09b924fc21a013ec94395b95"
+    },
+    {
+      "path": "assets/klaps/fonts/Anton-400.woff",
+      "bytes": 61460,
+      "sha256": "791375bdbed00de4a3aad4811291220ead0e1405d6f8b5bdbf109798c8359ac5"
+    },
+    {
+      "path": "assets/klaps/fonts/Caveat-600.woff",
+      "bytes": 132264,
+      "sha256": "7a101c766f28866c5aa36ebbce5cfedcea2601f2439d3b16694b9c8eee75e9dc"
+    },
+    {
+      "path": "assets/klaps/fonts/CourierPrime-Bold.ttf",
+      "bytes": 72856,
+      "sha256": "ff1f38786c849d1c41fa8e447960abdb2bd75fdfb0cfcdeb524fad65a5af3638"
+    },
+    {
+      "path": "assets/klaps/fonts/CourierPrime-Regular.ttf",
+      "bytes": 71188,
+      "sha256": "72f793376f8e2841656bf21d77a5de010f2929bd6956a22ee848ad0c7eb978af"
+    },
+    {
+      "path": "assets/klaps/fonts/Kalam-700.woff",
+      "bytes": 186044,
+      "sha256": "53b9c2a4260ba9a1320d2a92c6dbd532fa509bdeda0897580611a9f16f1a2bda"
+    },
+    {
+      "path": "assets/klaps/fonts/OFL-CourierPrime.txt",
+      "bytes": 4403,
+      "sha256": "9a755af092b494944c99f471be6fddd19b006a448fefdc4717e4ee0aa09a97b0"
+    },
+    {
+      "path": "assets/klaps/fonts/OFL.txt",
+      "bytes": 4524,
+      "sha256": "9992d96f64c6ea41c83b578bf02c22c7fddc17843b5fd0650301728c800e0f65"
+    },
+    {
+      "path": "assets/klaps/fonts/RobotoCondensed-var.woff",
+      "bytes": 94036,
+      "sha256": "d149ef1478076ad3f201676de2f58d11de18257590d9faeee2318fa3bc4b90e6"
+    },
+    {
+      "path": "assets/klaps/manifest.json",
+      "bytes": 2555,
+      "sha256": "995957f1c5a77557e49d1b5cb8e9c1ebc360b8272d8fb5b6d6be74bf6b7c96ed"
+    },
+    {
+      "path": "assets/klaps/tokens.css",
+      "bytes": 3064,
+      "sha256": "da275a49aab46708fc97be909a70f49fb66a16d096bac1b1f388dc57a107433f"
+    },
+    {
+      "path": "assets/media/creative-brief.txt",
+      "bytes": 467,
+      "sha256": "b749230815de0dc51ccb9d4c0856401cd11fbb6284c0dc2d9f5cde8b0de32e05"
+    },
+    {
+      "path": "assets/media/platform-close.png",
+      "bytes": 119145,
+      "sha256": "bfd970341ab7dba56803f10603084c5c7ea3bfb3607b9f10ccbaa789d2324997"
+    },
+    {
+      "path": "assets/media/platform-dusk.mp4",
+      "bytes": 75467,
+      "sha256": "cf329eb51569293508b70f449c8208dc07b9caabc2a9f16fdc82b57141f8dbb6"
+    },
+    {
+      "path": "assets/media/platform-wide.png",
+      "bytes": 71487,
+      "sha256": "f6fa63080c688cb9ac89317eb40f010e436cdee608d544b6ea84d90def4ba486"
+    },
+    {
+      "path": "assets/media/scene-12-shot-notes.txt",
+      "bytes": 583,
+      "sha256": "f60c8fa97926e165e34d629591d55d666436a50c1ef214a5ff8da27312167294"
+    },
+    {
+      "path": "PREVIEW.png",
+      "bytes": 110021,
+      "sha256": "70e66bbab0e03531aa6c5dafa8e8614675b82d7d9d7b91627a236e9cf99a30fa"
+    }
+  ],
+  "scope": "Static browser pilot; local edits/imports; recorded vector and AI examples. No live model, accounts or shared backend."
+}

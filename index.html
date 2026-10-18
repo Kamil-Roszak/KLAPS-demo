@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en" data-theme="table">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="KLAPS Cutting Room — a browser-local film development workspace with recorded AI examples.">
+  <meta name="color-scheme" content="dark light">
+  <title>KLAPS · The Last Light</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/klaps/tokens.css">
+  <link rel="stylesheet" href="assets/klaps/bundle.css">
+  <link rel="stylesheet" href="app.css">
+  <script src="strings.js" defer></script>
+  <script src="data.js" defer></script>
+  <script src="views.js" defer></script>
+  <script src="core.js" defer></script>
+</head>
+<body>
+  <div id="app"></div>
+  <div class="fs-toast-slot"><div class="kl-toast"><p id="status" class="kl-toast__strip" role="status" aria-live="polite" aria-atomic="true"></p></div></div>
+  <dialog id="pilot-dialog" class="pilot-dialog kl-on-paper" aria-labelledby="dialog-title"></dialog>
+  <input id="import-files" type="file" multiple accept="image/*,video/*,audio/*,text/plain,text/markdown,text/csv,application/json,application/pdf" hidden>
+  <input id="restore-file" type="file" accept="application/json,.json" hidden>
+  <noscript><p class="fs-no-script">This browser-local KLAPS pilot needs JavaScript. Enable it to open the workspace.</p></noscript>
+</body>
+</html>

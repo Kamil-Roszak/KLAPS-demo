@@ -1,0 +1,34 @@
+{
+  "modelId": "Qwen/Qwen3.5-9B@c202236235762e1c871ad0ccb60c8ee5ba337b9a",
+  "promptVersion": "film-pitch-v1",
+  "settings": {
+    "temperature": 0.7,
+    "top_p": 0.8,
+    "top_k": 20,
+    "repetition_penalty": 1.0,
+    "max_new_tokens": 6144,
+    "seed": 42,
+    "device": "cuda",
+    "inputTokens": 970,
+    "outputTokens": 510,
+    "correctionAttempts": 0,
+    "usage": [
+      {
+        "inputTokens": 970,
+        "outputTokens": 510
+      }
+    ]
+  },
+  "createdUtc": "2026-10-18 14:19:49.3173094",
+  "content": {
+    "title": "The Unlabelled Tape",
+    "logline": "A sound archivist returns to her railway hometown to catalogue voices, only to find a recording that shatters the official story of her father's disappearance.",
+    "synopsis": "Mara returns to the fading town of Oakhaven to manage its decaying sound archive. Her mission is simple: digitize the station's history before the lights go out forever. However, an unlabelled reel from 1984 disrupts the curated narrative. While the town remembers her father, Elias, as a man who chose to leave, the tape captures a frantic argument suggesting he was forced out. As Mara digs deeper, she realizes the archive itself has been edited to protect the family's reputation. She must decide whether to release the raw truth that could destroy her mother's carefully constructed life or preserve the lie that keeps her family together.",
+    "characters": "Mara, a meticulous archivist seeking her father's truth; Elias, the retired station master who built the town's memory; Ana, Mara's mother who guarded the secret of her husband's departure.",
+    "visualDirection": "Cinematography utilizes deep focus and wide angles to emphasize isolation within the vast, empty station halls. Lighting shifts from the cold, clinical blue of the archive to the warm, flickering amber of practical lamps in the home. Sound design is paramount, using diegetic echoes and silence to bridge the gap between the recorded past and the present.",
+    "audience": "Festival audiences and viewers of intimate independent drama who appreciate character studies over high-octane action.",
+    "whyNow": "In an era where digital records define our identities, this story questions who owns the truth. It resonates with anyone who has ever had to choose between a comfortable lie and a painful reality.",
+    "treatment": "Mara returns to Oakhaven and begins digitizing the station logs. She discovers the unlabelled tape during a routine check. Playing it reveals her father's voice in distress, contradicting the official account. She confronts her mother, who admits to hiding the tape to protect Elias's legacy. Mara faces the choice of releasing the recording to the public or destroying it. She chooses to archive both versions, labeling them 'Official' and 'Raw,' allowing the audience to decide the truth."
+  },
+  "changeNotice": "Allowlisted copy of the real recorded model result. Original database version ID removed. No new inference performed for this static pilot."
+}

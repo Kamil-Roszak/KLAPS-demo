@@ -1,0 +1,67 @@
+{
+  "name": "KLAPS Cutting Room",
+  "copied": "2026-10-18",
+  "note": "Byte-for-byte copies of the design-system handoff. Do not edit; project rules live in app.css, boards.css and pitches.css.",
+  "files": [
+    {
+      "path": "tokens.css",
+      "source": "pitch-c-filary/design-system/tokens.css",
+      "bytes": 3064,
+      "sha256": "da275a49aab46708fc97be909a70f49fb66a16d096bac1b1f388dc57a107433f"
+    },
+    {
+      "path": "bundle.css",
+      "source": "pitch-c-filary/design-system/components/bundle.css",
+      "bytes": 44062,
+      "sha256": "9df78443d361f049210c38195637a9a6814442de09b924fc21a013ec94395b95"
+    },
+    {
+      "path": "fonts/Anton-400.woff",
+      "source": "pitch-c-filary/design-system/fonts/Anton-400.woff",
+      "bytes": 61460,
+      "sha256": "791375bdbed00de4a3aad4811291220ead0e1405d6f8b5bdbf109798c8359ac5"
+    },
+    {
+      "path": "fonts/Caveat-600.woff",
+      "source": "pitch-c-filary/design-system/fonts/Caveat-600.woff",
+      "bytes": 132264,
+      "sha256": "7a101c766f28866c5aa36ebbce5cfedcea2601f2439d3b16694b9c8eee75e9dc"
+    },
+    {
+      "path": "fonts/CourierPrime-Bold.ttf",
+      "source": "pitch-c-filary/design-system/fonts/CourierPrime-Bold.ttf",
+      "bytes": 72856,
+      "sha256": "ff1f38786c849d1c41fa8e447960abdb2bd75fdfb0cfcdeb524fad65a5af3638"
+    },
+    {
+      "path": "fonts/CourierPrime-Regular.ttf",
+      "source": "pitch-c-filary/design-system/fonts/CourierPrime-Regular.ttf",
+      "bytes": 71188,
+      "sha256": "72f793376f8e2841656bf21d77a5de010f2929bd6956a22ee848ad0c7eb978af"
+    },
+    {
+      "path": "fonts/Kalam-700.woff",
+      "source": "pitch-c-filary/design-system/fonts/Kalam-700.woff",
+      "bytes": 186044,
+      "sha256": "53b9c2a4260ba9a1320d2a92c6dbd532fa509bdeda0897580611a9f16f1a2bda"
+    },
+    {
+      "path": "fonts/OFL-CourierPrime.txt",
+      "source": "pitch-c-filary/design-system/fonts/OFL-CourierPrime.txt",
+      "bytes": 4403,
+      "sha256": "9a755af092b494944c99f471be6fddd19b006a448fefdc4717e4ee0aa09a97b0"
+    },
+    {
+      "path": "fonts/OFL.txt",
+      "source": "pitch-c-filary/design-system/fonts/OFL.txt",
+      "bytes": 4524,
+      "sha256": "9992d96f64c6ea41c83b578bf02c22c7fddc17843b5fd0650301728c800e0f65"
+    },
+    {
+      "path": "fonts/RobotoCondensed-var.woff",
+      "source": "pitch-c-filary/design-system/fonts/RobotoCondensed-var.woff",
+      "bytes": 94036,
+      "sha256": "d149ef1478076ad3f201676de2f58d11de18257590d9faeee2318fa3bc4b90e6"
+    }
+  ]
+}

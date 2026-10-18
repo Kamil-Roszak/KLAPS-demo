@@ -1,0 +1,105 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-10-18T00:00:00.000Z",
+  "changeNotice": "Project-authored public static export manifest. Copied original procedural media remains byte-for-byte unchanged. Derived evidence and data are explicitly marked. No third-party film media is included.",
+  "generator": "static-pilot/build-data.py",
+  "files": [
+    {
+      "path": "assets/media/platform-wide.png",
+      "source": "artifacts/hackathon-showcase/capture/media/platform-wide.png",
+      "bytes": 71487,
+      "sha256": "f6fa63080c688cb9ac89317eb40f010e436cdee608d544b6ea84d90def4ba486",
+      "sourceSha256": "f6fa63080c688cb9ac89317eb40f010e436cdee608d544b6ea84d90def4ba486",
+      "transformation": "none; byte-for-byte copy",
+      "attribution": "Original procedural KLAPS showcase material; project-authored using capture/generate-media.py. No third-party film imagery."
+    },
+    {
+      "path": "assets/media/platform-close.png",
+      "source": "artifacts/hackathon-showcase/capture/media/platform-close.png",
+      "bytes": 119145,
+      "sha256": "bfd970341ab7dba56803f10603084c5c7ea3bfb3607b9f10ccbaa789d2324997",
+      "sourceSha256": "bfd970341ab7dba56803f10603084c5c7ea3bfb3607b9f10ccbaa789d2324997",
+      "transformation": "none; byte-for-byte copy",
+      "attribution": "Original procedural KLAPS showcase material; project-authored using capture/generate-media.py. No third-party film imagery."
+    },
+    {
+      "path": "assets/media/platform-dusk.mp4",
+      "source": "artifacts/hackathon-showcase/capture/media/platform-dusk.mp4",
+      "bytes": 75467,
+      "sha256": "cf329eb51569293508b70f449c8208dc07b9caabc2a9f16fdc82b57141f8dbb6",
+      "sourceSha256": "cf329eb51569293508b70f449c8208dc07b9caabc2a9f16fdc82b57141f8dbb6",
+      "transformation": "none; byte-for-byte copy",
+      "attribution": "Original procedural KLAPS showcase material; project-authored using capture/generate-media.py. No third-party film imagery."
+    },
+    {
+      "path": "assets/media/creative-brief.txt",
+      "source": "artifacts/hackathon-showcase/capture/media/creative-brief.txt",
+      "bytes": 467,
+      "sha256": "b749230815de0dc51ccb9d4c0856401cd11fbb6284c0dc2d9f5cde8b0de32e05",
+      "sourceSha256": "b749230815de0dc51ccb9d4c0856401cd11fbb6284c0dc2d9f5cde8b0de32e05",
+      "transformation": "none; byte-for-byte copy",
+      "attribution": "Original procedural KLAPS showcase material; project-authored using capture/generate-media.py. No third-party film imagery."
+    },
+    {
+      "path": "assets/media/scene-12-shot-notes.txt",
+      "source": "artifacts/hackathon-showcase/capture/media/scene-12-shot-notes.txt",
+      "bytes": 583,
+      "sha256": "f60c8fa97926e165e34d629591d55d666436a50c1ef214a5ff8da27312167294",
+      "sourceSha256": "f60c8fa97926e165e34d629591d55d666436a50c1ef214a5ff8da27312167294",
+      "transformation": "none; byte-for-byte copy",
+      "attribution": "Original procedural KLAPS showcase material; project-authored using capture/generate-media.py. No third-party film imagery."
+    },
+    {
+      "path": "assets/evidence/actual-ai-generation.public.json",
+      "bytes": 3021,
+      "sha256": "b2b614bb50e2581805ec129597f1a43e708e55595c9adab8765a32f7d44b40f8",
+      "sources": [
+        {
+          "path": "artifacts/hackathon-showcase/capture/actual-ai-generation.json",
+          "sha256": "cef813113fbab86a05e5d5eb4a1c217f44e7eb9c54435b3412750f1912adb099"
+        }
+      ],
+      "transformation": "Allowlisted JSON transformation; original database version ID omitted."
+    },
+    {
+      "path": "assets/evidence/recorded-index.public.json",
+      "bytes": 89916,
+      "sha256": "24f92fcc3c8fa3b5c541543b6148d3105d1baa7c8f0891a920c052852c83d10d",
+      "sources": [
+        {
+          "path": "artifacts/hackathon-showcase/revision/real-film/film-embedding-source.json",
+          "sha256": "bffb8b86fa0e9ac21044563b7a7f38ee1d8b94eedb1efd6cce5725eb4d91001c"
+        },
+        {
+          "path": "artifacts/hackathon-showcase/feasibility/embeddings/query-vectors.json",
+          "sha256": "db405c2add82be886e825d77edfb549186830f4cb7aff3ef0acef8ff4c651265"
+        }
+      ],
+      "transformation": "Allowlisted numeric provenance, vector hashes and derived client ranking; private storage and identity fields omitted."
+    },
+    {
+      "path": "data.js",
+      "bytes": 8532760,
+      "sha256": "be869cf438b63803df2639bf50fc8637ed42f72e3a7ec316f4b009428cbae4a9",
+      "sources": [
+        {
+          "path": "artifacts/hackathon-showcase/capture/seed.py",
+          "sha256": "91dd64454348e70f4e2d78edc061a951519acadafea8364bc4400fd641e0fd43"
+        },
+        {
+          "path": "artifacts/hackathon-showcase/capture/actual-ai-generation.json",
+          "sha256": "cef813113fbab86a05e5d5eb4a1c217f44e7eb9c54435b3412750f1912adb099"
+        },
+        {
+          "path": "artifacts/hackathon-showcase/revision/real-film/film-embedding-source.json",
+          "sha256": "bffb8b86fa0e9ac21044563b7a7f38ee1d8b94eedb1efd6cce5725eb4d91001c"
+        },
+        {
+          "path": "artifacts/hackathon-showcase/feasibility/embeddings/query-vectors.json",
+          "sha256": "db405c2add82be886e825d77edfb549186830f4cb7aff3ef0acef8ff4c651265"
+        }
+      ],
+      "transformation": "Project-owned deterministic fixture plus exact float32 saved vectors; see provenance.deterministicSource and build-data.py."
+    }
+  ]
+}

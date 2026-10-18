@@ -1,0 +1,22 @@
+{
+  "passed": 15,
+  "tests": [
+    "Six sanitized materials and original demo project",
+    "Seven recorded query top-five rankings and exact cosines",
+    "Free text searches metadata and authored context without a semantic claim",
+    "An empty query never selects an undefined preset alias",
+    "Source intervals validate order and source duration",
+    "Sourced note preserves literal text, author and interval",
+    "Decision resolution requires and preserves a rationale",
+    "Board cards move by explicit lane and retain their source",
+    "Human edits create an immutable child pitch version",
+    "Recorded AI draft retains provenance and exact generated fields",
+    "Pitch reading export escapes untrusted authored strings",
+    "JSON backup round-trip excludes unsafe source URLs and file blobs",
+    "Saved changes survive a fresh runtime at the same repository path",
+    "All rendered routes have one main/heading, safe text and nested-path links",
+    "Static entry files, relative assets, native input ownership and trusted fonts"
+  ],
+  "scope": "DOM-free source/controller/data/render-contract checks. Not browser media, IndexedDB, download, visual layout or assistive-technology acceptance.",
+  "verifiedAt": "2026-10-18T17:03:43.631Z"
+}

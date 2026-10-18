@@ -1,0 +1,59 @@
+KLAPS browser pilot — asset attribution and notices
+=================================================
+
+KLAPS Cutting Room design source
+--------------------------------
+The copied token stylesheet, component stylesheet and fonts come from the
+project's KLAPS Cutting Room handoff, pitch-c-filary/design-system. The
+browser edition adapts its native HTML/CSS composition and behavior. Copied
+design files are preserved byte-for-byte; the included asset manifests
+record source paths and SHA-256 checksums. No React runtime is included.
+
+Fonts
+-----
+Kalam 700, Caveat 600, Anton 400, Roboto Condensed variable, and Courier
+Prime regular/bold are distributed with their existing SIL Open Font
+License 1.1 notices. Keep OFL.txt and OFL-CourierPrime.txt beside the copied
+fonts. Font copyright notices are also embedded in the font name tables.
+
+Courier Prime's preserved notice states:
+Copyright 2015 The Courier Prime Project Authors
+(https://github.com/quoteunquoteapps/CourierPrime).
+
+The complete license terms are in the supplied font license files; this
+notice does not replace or modify those terms. The font files are not
+modified by this browser export.
+
+Original procedural example media
+--------------------------------
+The Last Light / Northlight Studio is a fictional example project.
+platform-wide.png, platform-close.png and platform-dusk.mp4 were originally
+created by the project-owned generate-media.py script for the isolated
+public showcase. The video is an eight-second silent procedural animation.
+The creative brief, shot notes, example people, decisions and boards are
+fictional production content. The source capture/README.md and fixture.json
+identify this corpus as original procedural media with no third-party film
+assets. Public provenance is retained in assets/evidence/.
+
+Recorded model output and numerical reference evidence
+-----------------------------------------------------
+The saved pitch draft records output generated with
+Qwen/Qwen3.5-9B@c202236235762e1c871ad0ccb60c8ee5ba337b9a.
+It is labelled as a recorded AI proposal, not new browser inference.
+The public evidence retains its model/settings provenance. No model weights
+or model runtime are distributed in this package.
+
+The vector reference study uses saved numerical visual/audio vectors and
+query vectors from the existing Dzien swira (2002) experiment, using
+EmbeddingGemma 2 revision 914f7f89142e33e77833254d9c9b90c3cef7303b.
+The film title identifies the recorded study. This package includes no
+footage, still images, dialogue transcript or soundtrack from that film.
+Cosine similarity and source intervals describe recorded measurements and
+do not establish retrieval accuracy, shot boundaries or narrative links.
+
+Distribution boundary
+---------------------
+No ASP.NET Core/.NET application binaries, Finbuckle library, model weights,
+private databases, account information, invitations or source full films
+are part of this static package. Their licenses or local-server settings
+are not a claim that the corresponding server features run on GitHub Pages.
